@@ -11,6 +11,7 @@
 
 * Quick summary
     - Good practices, code snippets, and tracking controls over settings over a MacOSX environment
+    ![](https://bitbucket.org/repo/rpxzA5j/images/108949086-npm.png)
 * Version 1.01
 
 ### How do I get set up? ###
