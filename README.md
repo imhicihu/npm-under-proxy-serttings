@@ -4,6 +4,7 @@
 # RATIONALE #
 
 * Our (custom) settings to handle npm packages under a proxy server
+* There is a [related repository](https://bitbucket.org/imhicihu/proxy-access/) aside 
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
@@ -14,15 +15,16 @@
 
 ### How do I get set up? ###
 
-* Dependencies
+* Dependencies administrators
     - NPM
 	- Brew
-* Database configuration
-    - Out of scope of this repo
+    - Yarn
+* ~Database configuration~
+    - ~Out of scope of this repo~ There is no database to handle.
 * How to run tests
-    - Follow our "good practices" (this is only valid for MacOSX environments)
+    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to `procedures.md` in the root of this repo.
 * Deployment instructions
-    - Git our repo. Read offline.
+    - Git our repo. Read offline. 
 
 ### Source ###
 
@@ -42,7 +44,6 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/npm-under-proxy-settings/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
