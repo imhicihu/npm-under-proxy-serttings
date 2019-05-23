@@ -20,12 +20,12 @@
     - NPM
 	- Brew
     - Yarn
-* ~Database configuration~
-    - ~Out of scope of this repo~ There is no database to handle.
+* ~~Database configuration~~
+    - ~~Out of scope of this repo~~ There is no database to handle.
 * How to run tests
     - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to `procedures.md` in the root of this repo.
 * Deployment instructions
-    - Git our repo. Read offline. 
+    - [Git our repo](git clone https://imhicihu@bitbucket.org/imhicihu/npm-under-proxy-settings.git). Read offline. 
 
 ### Source ###
 
