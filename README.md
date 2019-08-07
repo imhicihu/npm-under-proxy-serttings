@@ -23,9 +23,17 @@
 * ~~Database configuration~~
     - ~~Out of scope of this repo~~ There is no database to handle.
 * How to run tests
-    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to `procedures.md` in the root of this repo.
+    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to [`procedures.md`](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/Procedures.md) in the root of this repo.
 * Deployment instructions
-    - [Git our repo](git clone https://imhicihu@bitbucket.org/imhicihu/npm-under-proxy-settings.git). Read offline. 
+    - [Git our repo](git clone https://imhicihu@bitbucket.org/imhicihu/npm-under-proxy-settings.git). Read _offline_.
+    
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Bibliographical hybrid (mobile app)](https://bitbucket.org/imhicihu/bibliographical-hybrid-mobile-app/src/)
+     - [ISKM2017 - Mobile App](https://bitbucket.org/imhicihu/iskm2017-mobile-app/src/master/)
+     - [Bibliographical searcher (stand-alone app)](https://bitbucket.org/imhicihu/bibliographical-searcher-stand-alone-app/src/master/)
+     - [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/)
 
 ### Source ###
 
