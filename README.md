@@ -17,9 +17,9 @@
 ### How do I get set up? ###
 
 * Dependencies administrators
-    - NPM
-	- Brew
-    - Yarn
+    - [npm](https://www.npmjs.com/)
+	- [Homebrew](https://brew.sh/)
+    - [Yarn](https://yarnpkg.com/)
 * ~~Database configuration~~
     - ~~Out of scope of this repo~~ There is no database to handle.
 * How to run tests
