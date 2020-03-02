@@ -23,7 +23,7 @@
 * ~~Database configuration~~
     - ~~Out of scope of this repo~~ There is no database to handle.
 * How to run tests
-    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to [`procedures.md`](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/Procedures.md) and [commands_set_unset_proxy_settings.md](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/commands_set_unset_proxy_settings.md)in the root of this repo.
+    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to [`procedures.md`](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/Procedures.md) and [commands_set_unset_proxy_settings.md](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/commands_set_unset_proxy_settings.md) in the root of this repo.
 * Deployment instructions
     - [Git our repo](git clone https://imhicihu@bitbucket.org/imhicihu/npm-under-proxy-settings.git). Read _offline_.
     
