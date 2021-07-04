@@ -18,7 +18,8 @@
 ### How do I get set up? ###
 
 * Dependencies administrators
-    - [npm](https://www.npmjs.com/)
+    - [NVM](https://github.com/nvm-sh/nvm)
+        - [npm](https://www.npmjs.com/)
 	- [Homebrew](https://brew.sh/)
     - [Yarn](https://yarnpkg.com/)
 * ~~Database configuration~~
