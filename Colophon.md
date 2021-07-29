@@ -5,6 +5,7 @@
      - Satechi Type-C Multiport Adapter (hub USB & Network access)
      - _Bandwidth_: Consorcio Saavedra 15
 * Software
+     - [NVM](https://github.com/nvm-sh/nvm): Node version manager
      - [Proxyman](https://proxyman.app/): http proxy debugging tool
      ![core-3.png](https://bitbucket.org/repo/5qRy4oR/images/1630626106-core-3.png)
      - [Homebrew](https://github.com/brunophilipe/Cakebrew): GUI App for the Brew formulæ
