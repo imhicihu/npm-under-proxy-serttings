@@ -1,4 +1,4 @@
-## Checklist
+### Checklist
 * Disable wifi connection
 * Plug the Satechi connector. Plug the network cable to the mac
 * Select on my mac `location` >> `IMHICIHU sin usuario ni password`
