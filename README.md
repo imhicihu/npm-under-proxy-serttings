@@ -13,7 +13,7 @@
 * Quick summary
     - Good practices, code snippets, and tracking controls over settings over a MacOSX environment
     ![](https://bitbucket.org/repo/rpxzA5j/images/1692203561-108949086-npm.png)
-* Version 1.01
+
 
 ### How do I get set up? ###
 
@@ -25,9 +25,9 @@
 * ~~Database configuration~~
     - ~~Out of scope of this repo~~ There is no database to handle.
 * How to run tests
-    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to [`procedures.md`](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/Procedures.md) and [commands_set_unset_proxy_settings.md](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/commands_set_unset_proxy_settings.md) in the root of this repo.
+    - Follow our "good practices" (this is only valid for MacOSX environments and meet *our* technical realm). Give a look to [`procedures.md`](Procedures.md) and [commands_set_unset_proxy_settings.md](commands_set_unset_proxy_settings.md) in the root of this repo.
 * Deployment instructions
-    - [Git our repo](git clone https://imhicihu@bitbucket.org/imhicihu/npm-under-proxy-settings.git). Read _offline_.
+    - `git clone https://imhicihu@bitbucket.org/imhicihu/npm-under-proxy-settings.git`. Read _offline_.
     
 ### Related repositories ###
 
@@ -53,12 +53,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/npm-under-proxy-settings/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
